@@ -1,4 +1,4 @@
-#👋 hello world, I'm Doruk!
+# 👋 hello world, I'm Doruk!
 I’m a high school student passionate about artificial intelligence.<br>I enjoy building real-world projects, exploring machine learning, and continuously improving my skills through hands-on work and research.<br>My goal is to create impactful AI systems and contribute to future technological advancements.
 
 
