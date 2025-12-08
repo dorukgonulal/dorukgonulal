@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://i.ibb.co/TxVSFZph/Paragraf-metniniz.png" />
+ <img src="https://iili.io/fA0wxta.png" />
 </h1>
 
 # 👋 hello world, I'm Doruk!
