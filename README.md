@@ -1,6 +1,6 @@
 <h1 style="text-align='center'">👋 hello world, I'm Doruk!</h1>
 
-*I’m a high school student passionate about artificial intelligence.* <br>I enjoy building real-world projects, exploring machine learning, and continuously improving my skills through hands-on work and research.<br>
+*I’m a high school student passionate about artificial intelligence.* <br>Now building https://kedy.dev <br>I enjoy building real-world projects, exploring machine learning, and continuously improving my skills through hands-on work and research.<br>
 
 - RAG
 - NLP
